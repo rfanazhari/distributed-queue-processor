@@ -31,8 +31,6 @@ The application follows clean architecture principles with distinct layers:
 ├── Dockerfile                 # Docker configuration for building the application
 ├── README.md                  # Project documentation
 ├── docker-compose.yml         # Docker Compose configuration for running multiple instances
-├── docs/                      # Documentation files
-│   └── claude.md              # Additional documentation
 ├── domain/                    # Domain layer
 │   ├── entity/                # Business entities
 │   │   └── survey.go          # Survey entity definitions
